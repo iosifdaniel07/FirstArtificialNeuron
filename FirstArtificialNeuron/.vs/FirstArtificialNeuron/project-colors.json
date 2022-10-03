@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44c2d693-0469-4bae-b73c-2b9561b45b55": {
+      "ProjectGuid": "44c2d693-0469-4bae-b73c-2b9561b45b55",
+      "DisplayName": "FirstArtificialNeuron",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

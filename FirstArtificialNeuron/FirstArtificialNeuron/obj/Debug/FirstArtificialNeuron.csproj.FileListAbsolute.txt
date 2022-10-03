@@ -1,0 +1,11 @@
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\bin\Debug\FirstArtificialNeuron.exe.config
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\bin\Debug\FirstArtificialNeuron.exe
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\bin\Debug\FirstArtificialNeuron.pdb
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\obj\Debug\FirstArtificialNeuron.csproj.AssemblyReference.cache
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\obj\Debug\FirstArtificialNeuron.csproj.SuggestedBindingRedirects.cache
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\obj\Debug\FirstArtificialNeuron.Properties.Resources.resources
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\obj\Debug\FirstArtificialNeuron.csproj.GenerateResource.cache
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\obj\Debug\FirstArtificialNeuron.csproj.CoreCompileInputs.cache
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\obj\Debug\FirstArtificialNeuron.exe
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\obj\Debug\FirstArtificialNeuron.pdb
+D:\Teme\Inteligenta Artificiala\FirstArtificialNeuron\FirstArtificialNeuron\obj\Debug\FirstArtificialNeuron.Form1.resources
